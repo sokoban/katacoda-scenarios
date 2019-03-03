@@ -4,10 +4,6 @@ This is your first step.
 
 This is an example of creating a scenario and running a command
 
-echo 'Hello World'{{execute}}
+`echo 'Hello World'`{{execute}}
 
-ls -al{{execute}}
-echo 'Hello World'{{execute}}
-echo 'Hello World'{{execute}}
-echo 'Hello World'{{execute}}
-echo 'Hello World'{{execute}}
+`ls -al`{{execute}}
